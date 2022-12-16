@@ -58,3 +58,6 @@ This is a gardening companion app to assist gardeners. Based on a user's locatio
 - React-router
 
 ### Project presentation video [link](https://www.youtube.com/watch?v=R8R3M7B4NZ8&list=PLx0iOsdUOUmmSWuD08FQvGO9KW5fw6Z9z&index=20)
+
+<!-- version 1 with full audio -->
+<!-- https://www.youtube.com/watch?v=fEmLLwRqpCI -->
